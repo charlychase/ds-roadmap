@@ -1,0 +1,7 @@
+name: pydata-book
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - git
+prefix: C:\Users\croger\AppData\Local\anaconda3\envs\pydata-book
